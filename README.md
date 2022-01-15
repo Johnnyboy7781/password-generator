@@ -4,6 +4,8 @@
 A website that can generate a random password for you. 
 The password generator takes in multiple parameters and generates an appropriate password.
 
+![Screenshot](./Assets/images/screenshot.png)
+
 ## Built With
 * HTML
 * CSS
